@@ -1,1 +1,1 @@
-This project is to create VPC and create webserver
+This project is to create VPC and webserver
